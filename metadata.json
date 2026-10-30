@@ -1,0 +1,6 @@
+{
+  "name": "Subway Escape: Bot Workshop & Arena",
+  "description": "Official technical documentation, starter code kits (Python, C++, Java), and interactive 300-tick simulator for the Subway Escape autonomous bot competition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
