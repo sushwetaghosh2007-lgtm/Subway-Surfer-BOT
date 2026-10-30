@@ -1,7 +1,10 @@
 Subway Escape: The Ultimate Chase — Autonomous Bot Workshop & Arena
+
 Official technical documentation, starter kits, mathematical models, and local testing simulator for the Subway Escape autonomous bot competition.
 📋 Table of Contents
+
 Challenge Overview
+
 Key Rules & Priorities
 Repository Structure
 Quick Start
